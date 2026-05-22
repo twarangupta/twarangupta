@@ -87,4 +87,4 @@ Remote full-time or contract · Full-stack / Backend / Frontend · Available imm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twarangupta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twarangupta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://twaransportfolio.vercel.app)  
-📧 twarangupta01@gmail.com · 📞 +91 9718117060
+📧 twarangupta01@gmail.com · 
