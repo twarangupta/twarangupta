@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Twaran Gupta
+# Namaste 🙏, I'm Twaran Gupta
 **Full Stack Developer · Open to Remote · Based in India**
 
 Full-stack developer with 1.5+ years of experience building enterprise-scale web applications, contract decision platforms, and data pipelines. I've shipped production features used by global business teams, cut API response times by 60%, and boosted team productivity by 40% using AI-assisted development tools.
