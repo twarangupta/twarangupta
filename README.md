@@ -1,16 +1,16 @@
 # Namaste 🙏 I'm Twaran Gupta
 
-**Backend-leaning Full-Stack Engineer · Node.js · React · Open to Remote (India)**
+**AI Engineer · Python · LLMs · RAG · LangGraph · AWS Bedrock · Open to Remote (India)**
 
-I build scalable web apps end to end — Node.js/Express REST APIs, PostgreSQL, and React.
-At ZS Associates I cut API latency **60%** and automated a workflow that reduced manual
-processing **30%**. I also ship AI-powered features via LLM API integration.
+I build production-ready AI applications and scalable backend systems — specializing in LLM-powered applications, Retrieval-Augmented Generation (RAG), multi-agent workflows, and AI orchestration.
 
-- 🚀 **JobMaxxing AI** — live AI career platform (React + Node) · https://jobmaxxing.in
+At ZS Associates, I developed enterprise GenAI solutions using AWS Bedrock, built multi-agent analytics workflows, reduced API latency **60%**, and automated processes that reduced manual effort **30%**. As a freelance AI Engineer, I build AI-powered financial advisory applications using Python, FastAPI, LangChain, and LangGraph.
+
+- 🤖 **JobMaxxing AI** — AI-powered career platform · https://jobmaxxing.in
 - 🌐 **Portfolio** · https://twarangupta.com
 - 💼 **LinkedIn** · https://linkedin.com/in/twarangupta
 - 📧 **Email** · twarangupta01@gmail.com
 
-`JavaScript` `TypeScript` `Node.js` `Express` `React` `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS`
+`Python` `FastAPI` `LangChain` `LangGraph` `RAG` `AWS Bedrock` `OpenAI API` `Multi-Agent Systems` `Node.js` `TypeScript` `Express.js` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `AWS` `React`
 
-🟢 Open to remote full-time/contract · Available immediately · 📧 twarangupta01@gmail.com
+🟢 Open to AI Engineer opportunities · Full-time/Contract · Available immediately · 📧 twarangupta01@gmail.com
