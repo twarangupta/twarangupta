@@ -2,7 +2,9 @@
 
 **Data Engineer · SQL · Python · PySpark · Databricks · Airflow · Snowflake · dbt · AWS · Open to Remote (India)**
 
-I build reliable batch data pipelines and warehouses: ingestion, ELT, data modelling and data quality. I also add LLM steps where they help, like enrichment and Text-to-SQL.
+I build reliable batch data pipelines and warehouses: ingestion, ELT, data modelling and data quality.
+
+I'm also a backend engineer at heart: I've shipped production APIs and calculation services in **Node.js, TypeScript and FastAPI** on SQL databases, so I understand how the data gets used, not just how it moves. And I'm actively growing into **AI engineering**: LLM enrichment, Text-to-SQL, RAG and agent workflows with LangChain, LangGraph and AWS Bedrock, built on top of clean, well-modelled data.
 
 At **ZS Associates** I built Informatica IICS ETL pipelines that integrated **4 source systems (~4 GB/day)** into a **Snowflake** warehouse for a Fortune 500 pharma client. Automated validation cut manual effort **35%** and stage-to-production time **25%**, and pre-load data-quality checks cut data issues **20%**. On a contract-analytics platform I cut data retrieval latency **60% (500 ms to 200 ms)** with parallel queries and Redis caching, which earned a Client Appreciation Award.
 
@@ -26,4 +28,4 @@ At **ZS Associates** I built Informatica IICS ETL pipelines that integrated **4 
 **AI:** `LLM enrichment` `Text-to-SQL` `RAG` `LangChain` `LangGraph` `AWS Bedrock`
 **Backend:** `Node.js` `TypeScript` `FastAPI`
 
-🟢 Open to **Data Engineer** roles · Full-time/Contract · Available immediately · 📧 twarangupta01@gmail.com
+🟢 Open to **Data Engineer**, **Backend** and **AI Engineer** roles · Full-time/Contract · Available immediately · 📧 twarangupta01@gmail.com
