@@ -1,6 +1,6 @@
 # Namaste 🙏 I'm Twaran Gupta
 
-**AI Engineer · Python · LLMs · RAG · LangGraph · AWS Bedrock · Open to Remote (India)**
+**AI Data Engineer · Python · LLMs · RAG · LangGraph · AWS Bedrock · Open to Remote (India)**
 
 I build production-ready AI applications and scalable backend systems — specializing in LLM-powered applications, Retrieval-Augmented Generation (RAG), multi-agent workflows, and AI orchestration.
 
