@@ -1,6 +1,6 @@
 # Namaste 🙏 I'm Twaran Gupta
 
-**Data Engineer · SQL · Python · PySpark · Databricks · Airflow · Snowflake · dbt · AWS · Open to Remote (India)**
+**Software Engineer & Data Engineer · SQL · Python · PySpark · Databricks · Airflow · Snowflake · dbt · AWS · Open to Remote (India)**
 
 I build reliable batch data pipelines and warehouses: ingestion, ELT, data modelling and data quality.
 
